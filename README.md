@@ -1,4 +1,4 @@
-# firstDraft
+# Final Project Draft 1
 Web Dev first draft submission
 ## Content
 This folder contains the lading page and login page to the final project. It contains all the additional css and js files.
